@@ -1,5 +1,3 @@
-# Movement Of Things 
-
 ## Exploring Inertial Motion Sensing When Autonomous, Tiny and Wireless
 
 Andreas Schlegel, Cedric Honnet
